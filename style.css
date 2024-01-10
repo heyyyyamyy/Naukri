@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+#marque-h1{
+    font-family: 'Poppins', sans-serif;
+}
 body{
     background-color: #FFFFFF;
 }
@@ -33,4 +38,13 @@ body{
 #footer-bg{
     background-color: #555555;
     color: white;
+}
+
+#footer-bg a{
+    text-decoration: none;
+    color: white;
+}
+
+#marquee-bg{
+    background-color: #D4F1F4;
 }
