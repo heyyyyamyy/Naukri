@@ -23,3 +23,14 @@ body{
 #a-gst a{
     text-decoration: none;
 }
+
+#learning-bg{
+    background-color: #7CB9E8;
+    color: white;
+    font-size: larger;
+}
+
+#footer-bg{
+    background-color: #555555;
+    color: white;
+}
